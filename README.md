@@ -1,5 +1,5 @@
 # internship-assignment
-# SOA Internship Program – Git + Linux CLI Assignment
+# FINTECH Internship Program – Git + Linux CLI Assignment
 
 ## Overview
 
